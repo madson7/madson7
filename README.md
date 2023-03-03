@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=27px height=27px></img> Olá, me chamo Madson Ramos</h1>
+
+Connect with me:
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_madson.ramos/)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=madson.adm7@gmail.com&su=Contato+-+via+perfil+github&body=Ol%C3%A1+Madson+Tudo+bem?&tf=cm)&nbsp;
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madson-ramos/)&nbsp;
 
 <!--
 **madson7/madson7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

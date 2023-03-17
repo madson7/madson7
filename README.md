@@ -2,7 +2,17 @@
 
 🏁 Minhas Experiências e Conquistas:
 
-Profissional com mais de 5 anos, trabalhado com ferramentas DevOps, como sistemas operacionais, monitoramento, virtualização e contanização, além de versionamento de código e CI/CD.
+DevOps com mais de 5 anos de experiência, trabalhando em ambientes de clouds públicas e privadas on-premise, arquitetando e modernizando infraestruturas legadas, utilizando stacks como:
+```
+✅ Sistemas Operacionais: Debian, ubuntu, Centos e Fedora
+✅ Monitoramento: Prometheus, Grafana e Zabbix
+✅ Virtualização e Contanização: OpenStack, Proxmox, KVM, MaaS, JuJu, LXC , Docker, Podman e Kubernetes
+✅ Versionamento de Código e CI/CD: GitLab, GitHub e Portainer
+✅ Orquestração e Autorização: Terraform, Ansible, Shell Script, Portainer, RKE e Helm
+✅ Storage: Dell, NFS e GlusterFS
+✅ Data Base: Postgres, MariaDB e MySQL
+✅ Sistema de Tíquetes de Suporte: MovieDesk, GLPI, Email e Slack
+```
 
 Em 2019, atuei como DevOps Júnior, onde teve como conquistas:
 ```
@@ -18,18 +28,6 @@ Em 2021, fui promovido e comecei a atuar DevOps Pleno, o que me possibilitou est
 ✅ Versionamento de código utilizando o GitLab
 ✅ Documentação de serviços com Bookstack
 ✅ Implantação Kubernetes on-premise
-```
-
-🏁 Minhas Stacks:
-```
-✅ Sistemas Operacionais: Debian, ubuntu, Centos e Fedora
-✅ Monitoramento: Prometheus, Grafana e Zabbix
-✅ Virtualização e Contanização: OpenStack, Proxmox, KVM, MaaS, JuJu, LXC , Docker, Podman e Kubernetes
-✅ Versionamento de Código e CI/CD: GitLab, GitHub e Portainer
-✅ Orquestração e Autorização: Terraform, Ansible, Shell Script, Portainer, RKE e Helm
-✅ Storage: Dell, NFS e GlusterFS
-✅ Data Base: Postgres, MariaDB e MySQL
-✅ Sistema de Tíquetes de Suporte: MovieDesk, GLPI, Email e Slack
 ```
 
 🏁 Minhas Conquistas Acadêmicas:

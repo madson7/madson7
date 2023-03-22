@@ -4,7 +4,7 @@
 
 DevOps com mais de 5 anos de experiência, trabalhando em ambientes de clouds públicas e privadas on-premise, arquitetando e modernizando infraestruturas legadas, utilizando stacks como:
 ```
-✅ Sistemas Operacionais: Debian, ubuntu, Centos e Fedora
+✅ Sistemas Operacionais: Debian, Ubuntu, Centos e Fedora
 ✅ Monitoramento: Prometheus, Grafana e Zabbix
 ✅ Virtualização e Contanização: OpenStack, Proxmox, KVM, MaaS, JuJu, LXC , Docker, Podman e Kubernetes
 ✅ Versionamento de Código e CI/CD: GitLab, GitHub e Portainer

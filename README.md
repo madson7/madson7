@@ -7,7 +7,7 @@ DevOps com mais de 5 anos de experiência, trabalhando em ambientes de clouds p�
 ✅ Sistemas Operacionais: Debian, Ubuntu, Centos e Fedora
 ✅ Monitoramento: Prometheus, Grafana e Zabbix
 ✅ Virtualização e Contanização: OpenStack, Proxmox, KVM, MaaS, JuJu, LXC , Docker, Podman e Kubernetes
-✅ Versionamento de Código e CI/CD: GitLab, GitHub e Portainer
+✅ Versionamento de Código e CI/CD: Jenkins, GitLab, GitHub e Portainer
 ✅ Orquestração e Autorização: Terraform, Ansible, Shell Script, Portainer, RKE e Helm
 ✅ Storage: Dell, NFS e GlusterFS
 ✅ Data Base: Postgres, MariaDB e MySQL

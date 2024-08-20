@@ -1,48 +1,25 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=27px height=27px></img> Olá, me chamo Madson Ramos</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px" height="27px"></img> Olá, sou Madson Ramos</h1>
 
-🏁 Minhas Experiências e Conquistas:
+🔧 Especialista em DevOps
 
-DevOps com mais de 5 anos de experiência, trabalhando em ambientes de clouds públicas e privadas on-premise, arquitetando e modernizando infraestruturas legadas, utilizando stacks como:
-```
-✅ Sistemas Operacionais: Debian, Ubuntu, Centos e Fedora
-✅ Monitoramento: Prometheus, Grafana e Zabbix
-✅ Virtualização e Contanização: OpenStack, Proxmox, KVM, MaaS, JuJu, LXC , Docker, Podman e Kubernetes
-✅ Versionamento de Código e CI/CD: Jenkins, GitLab, GitHub e Portainer
-✅ Orquestração e Autorização: Terraform, Ansible, Shell Script, Portainer, RKE e Helm
-✅ Storage: Dell, NFS e GlusterFS
-✅ Data Base: Postgres, MariaDB e MySQL
-✅ Sistema de Tíquetes de Suporte: MovieDesk, GLPI, Email e Slack
-```
+Como DevOps, tenho uma vasta experiência na criação e modernização de infraestruturas de TI em ambientes de cloud pública e on-premise. Minhas competências abrangem uma ampla gama de tecnologias e práticas que garantem operações eficientes, escaláveis e resilientes:
 
-Em 2019, atuei como DevOps Júnior, onde teve como conquistas:
 ```
-✅ Implantação de cloud privada
-✅ Implantação de cluster de containers
-✅ Migração de ambiente suscetível a falha e perda constante de dados para um ambiente mais resiliente e escalável
-```
-Em 2021, fui promovido e comecei a atuar DevOps Pleno, o que me possibilitou está a frente de várias conquista gerenciando projetos e pessoas:
-```
-✅ Implantação de aplicações e serviços usando GitLab e Portainer
-✅ Gerenciamento de ciclo de atualização de aplicações e serviços
-✅ Padronização de ambiente de desenvolvimento e produção
-✅ Versionamento de código utilizando o GitLab
-✅ Documentação de serviços com Bookstack
-✅ Implantação Kubernetes on-premise
+✅ Sistemas Operacionais: Administração e automação de servidores Linux, incluindo Debian, Ubuntu, CentOS e Fedora.
+✅ Monitoramento: Implementação de soluções de monitoramento com Prometheus, Grafana e Zabbix para garantir a observabilidade e a resposta proativa.
+✅ Virtualização e Contanização: Gestão de ambientes virtualizados e conteinerizados utilizando OpenStack, Proxmox, KVM, LXC, Docker, Podman, e Kubernetes.
+✅ Versionamento de Código e CI/CD: Automação de pipelines com GitLab, Jenkins, e  GitHub Acitions, facilitando entregas contínuas e versionamento eficiente de código.
+✅ Orquestração e Autorização: Uso de ferramentas como Terraform, Ansible, Shell Script, RKE e Helm para automação e orquestração de infraestruturas complexas.
+✅ Storage: Configuração e gerenciamento de soluções de armazenamento como Dell, NFS e GlusterFS.
+✅ Data Base: Administração de bancos de dados como PostgreSQL, MariaDB e MySQL, garantindo alta disponibilidade e desempenho.
+✅ Sistema de Tíquetes de Suporte: Expertise em ferramentas de gestão de suporte como MovieDesk, GLPI, Email e Slack para facilitar a comunicação e resolução de problemas.
 ```
 
-🏁 Minhas Conquistas Acadêmicas:
+🎓 Formação Acadêmica
 
-Em 2015, comecei minha jornada como profissional de Tecnologia da Informação (TI), quando entrei no IFPA (Instituto Federal do Pará) em Paragominas-PA, cursando Técnico em Informática. Como experiência extra curricular, participei da organização do evento Flisol.
+Minha base acadêmica sólida em Tecnologia da Informação foi construída no IFPA, como Técnico em Informática e Redes de Computadores, e atualmente estou cursando Superior de Tecnologia em Análise e Desenvolvimento de Sistemas na UNAMA.
 
-Em 2017, ingressei no IFPA de Castanhal-PA cursando Redes de Computadores. Como experiência extra curricular, participei da organização de eventos do Flisol, construí e ministrei o minicurso “CICLO DE CAPACITAÇÃO EM LINUX”. Também submeti um artigo e apresentei no congresso “Seminário Internacional de Desenvolvimento Rural Sustentável, Cooperativismo e Economia Solidária”.
-
-Atualmente, estou cursando Superior de Tecnologia em Análise e Desenvolvimento de Sistemas na UNAMA (Universidade da Amazônia).
-
-🪴 Estilo de vida:
-
-Adoro cozinhar para minha família e amigos. Sou casado e pai de dois meninos com uma diferença de 5 anos do mais velho. Também sou entusiasta de software livre.
-
-Connect with me:
+🌐 Conecte-se Comigo
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_madson.ramos/)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=madson.adm7@gmail.com&su=Contato+-+via+perfil+github&body=Ol%C3%A1+Madson+Tudo+bem?&tf=cm)&nbsp;
